@@ -1,10 +1,10 @@
 # CodeAlpha
-🩺 Disease Prediction using Machine Learning
+ Disease Prediction using Machine Learning
 This repository contains three end-to-end machine learning projects that predict the likelihood of Diabetes, Breast Cancer, and Heart Disease using datasets from the UCI Machine Learning Repository.
 
 The goal is not just to build accurate models but also to explain predictions using Explainable AI (XAI) techniques.
 
-📂 Projects Included
+ Projects Included
 Diabetes Prediction – Pima Indians Diabetes Dataset
 
 Breast Cancer Prediction – Wisconsin (Diagnostic) Dataset
@@ -13,7 +13,7 @@ Heart Disease Prediction – Cleveland Heart Disease Dataset
 
 Each project is implemented as a separate Jupyter Notebook and can be explored individually.
 
-🔑 Features
+ Features
 Data Preprocessing:
 
 Missing value handling
@@ -44,7 +44,7 @@ Explainable AI:
 
 SHAP (SHapley Additive exPlanations) to understand how features influence predictions
 
-📊 Example Visualizations
+Example Visualizations
 Correlation Heatmap
 
 SHAP Summary Plot
@@ -68,7 +68,7 @@ bash
 Copy
 Edit
 pip install -r requirements.txt
-🚀 Usage
+Usage
 Open the Jupyter Notebooks for each project:
 
 bash
@@ -77,7 +77,7 @@ Edit
 jupyter notebook
 Run the cells step-by-step to train the models and visualize the results.
 
-📈 Results
+ Results
 Achieved 76%+ accuracy on the Diabetes dataset
 
 Achieved 94%+ accuracy on the Breast Cancer dataset
@@ -86,5 +86,5 @@ Achieved 85%+ accuracy on the Heart Disease dataset
 
 These results may vary based on the chosen model and hyperparameters.
 
-🤝 Contributions
+ Contributions
 Contributions, issues, and suggestions are welcome! If you’d like to add more models or enhance explanations, feel free to submit a pull request.
