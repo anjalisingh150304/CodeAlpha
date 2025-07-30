@@ -49,7 +49,7 @@ Correlation Heatmap
 
 SHAP Summary Plot
 
-⚙️ Installation
+ Installation
 Clone this repository:
 
 bash
