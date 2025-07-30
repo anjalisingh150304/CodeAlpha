@@ -78,11 +78,11 @@ jupyter notebook
 Run the cells step-by-step to train the models and visualize the results.
 
  Results
-Achieved 76%+ accuracy on the Diabetes dataset
+Achieved 77% accuracy on the Diabetes dataset
 
-Achieved 94%+ accuracy on the Breast Cancer dataset
+Achieved 97% accuracy on the Breast Cancer dataset
 
-Achieved 85%+ accuracy on the Heart Disease dataset
+Achieved 88% accuracy on the Heart Disease dataset
 
 These results may vary based on the chosen model and hyperparameters.
 
